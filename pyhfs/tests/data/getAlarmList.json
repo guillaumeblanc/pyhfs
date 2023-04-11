@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "alarmCause": "An unrecoverable fault has occurred in the internal circuit of the device.",
+            "alarmId": 2064,
+            "alarmName": "The device is abnormal.",
+            "alarmType": 2,
+            "causeId": 5,
+            "devName": "Inverter-1",
+            "devTypeId": 38,
+            "esnCode": "Inverter05",
+            "lev": 2,
+            "raiseTime": 1667179861000,
+            "repairSuggestion": "Turn off the AC and DC switches, wait for 5 minutes, and then turn on the AC and DC switches. If the fault persists, contact your dealer or technical support.",
+            "stationCode": "BA4372D08E014822AB065017416F254C",
+            "stationName": "hzhStation02",
+            "status": 1
+        },
+        {
+            "alarmCause": "1. The voltage of a battery expansion module is low.",
+            "alarmId": 3011,
+            "alarmName": "Battery expansion module undervoltage",
+            "alarmType": 2,
+            "causeId": 2,
+            "devName": "Inverter-2",
+            "devTypeId": 38,
+            "esnCode": "Inverter01",
+            "lev": 4,
+            "raiseTime": 1665264943000,
+            "repairSuggestion": "1. If the sunlight is sufficient or AC reverse charging is allowed, the Battery [CNo] battery expansion module [SNo] (in the fault location information) can be charged when the inverter is running.",
+            "stationCode": "5D02E8B40AD342159AC8D8A2BCD4FAB5",
+            "stationName": "hzhStation01",
+            "status": 1
+        }
+    ],
+    "failCode": 0,
+    "message": null,
+    "params": {
+        "currentTime": 1667399432812,
+        "sns": "Inverter01",
+        "language": "en_US",
+        "beginTime": 1664553600000,
+        "devTypes": "1,2,38,46,62",
+        "endTime": 1667231999000,
+        "levels": "1,2,3,4",
+        "stationCodes": "5D02E8B40AD342159AC8D8A2BCD4FAB5,BA4372D08E014822AB065017416F254C"
+    },
+    "success": true
+}

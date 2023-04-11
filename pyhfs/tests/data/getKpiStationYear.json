@@ -1,0 +1,48 @@
+{
+    "success": true,
+    "data": [
+        {
+            "dataItemMap": {
+                "use_power": 288760,
+                "radiation_intensity": 0.6968,
+                "reduction_total_co2": 18.275,
+                "reduction_total_coal": 7.332,
+                "inverter_power": null,
+                "theory_power": 17559.36,
+                "ongrid_power": 18330,
+                "power_profit": 34320,
+                "installed_capacity": 25200,
+                "perpower_ratio": 0.727,
+                "reduction_total_tree": 999,
+                "performance_ratio": 89
+            },
+            "stationCode": "5D02E8B40AD342159AC8D8A2BCD4FAB5",
+            "collectTime": 1483200000000
+        },
+        {
+            "dataItemMap": {
+                "use_power": null,
+                "radiation_intensity": 1.4123,
+                "reduction_total_co2": 0.897,
+                "reduction_total_coal": 0.36,
+                "inverter_power": null,
+                "theory_power": 659.6,
+                "ongrid_power": null,
+                "power_profit": 2088,
+                "installed_capacity": 467.04,
+                "perpower_ratio": 1.927,
+                "reduction_total_tree": 49,
+                "performance_ratio": 89
+            },
+            "stationCode": "BA4372D08E014822AB065017416F254C",
+            "collectTime": 1483200000000
+        }
+    ],
+    "failCode": 0,
+    "params": {
+        "stationCodes": "BA4372D08E014822AB065017416F254C,5D02E8B40AD342159AC8D8A2BCD4FAB5",
+        "collectTime": 1501862400000,
+        "currentTime": 1503046597854
+    },
+    "message": null
+}

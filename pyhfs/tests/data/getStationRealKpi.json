@@ -1,0 +1,33 @@
+{
+    "success": true,
+    "data": [
+        {
+            "dataItemMap": {
+                "real_health_state": "3",
+                "day_power": "17543",
+                "total_power": "345732.000",
+                "day_income": "45.67",
+                "month_power": "4345732.000",
+                "total_income": "2088.000"
+            },
+            "stationCode": "BA4372D08E014822AB065017416F254C"
+        },
+        {
+            "dataItemMap": {
+                "real_health_state": "1",
+                "day_power": "86770.000",
+                "total_power": "459345.340",
+                "day_income": "62.000",
+                "month_power": "9935100.000",
+                "total_income": "6115.000"
+            },
+            "stationCode": "5D02E8B40AD342159AC8D8A2BCD4FAB5"
+        }
+    ],
+    "failCode": 0,
+    "params": {
+        "stationCodes": "BA4372D08E014822AB065017416F254C,5D02E8B40AD342159AC8D8A2BCD4FAB5",
+        "currentTime": 1503046597854
+    },
+    "message": null
+}

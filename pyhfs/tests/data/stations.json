@@ -1,0 +1,36 @@
+{
+    "data": {
+        "list": [
+            {
+                "plantCode": "5D02E8B40AD342159AC8D8A2BCD4FAB5",
+                "plantName": "Maternelle",
+                "plantAddress": "Grésy sur Aix",
+                "longitude": 45.72355641181104,
+                "latitude": 5.933697679413769,
+                "aidType": 2147483647,
+                "capacity": 25.8,
+                "combineType": null
+            },
+            {
+                "plantCode": "BA4372D08E014822AB065017416F254C",
+                "plantName": "Puer",
+                "plantAddress": "Aix les Bains",
+                "longitude": 45.70218696025901,
+                "latitude": 5.892721502704196,
+                "aidType": 2147483647,
+                "capacity": 98.7,
+                "combineType": null
+            }
+        ],
+        "pageCount": 1,
+        "pageNo": 1,
+        "pageSize": 100,
+        "total": 2
+    },
+    "failCode": 0,
+    "message": null,
+    "params": {
+        "currentTime": 1663851483997
+    },
+    "success": true
+}
