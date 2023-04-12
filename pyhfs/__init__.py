@@ -4,6 +4,4 @@ from .client import Client
 from .client import ClientSession
 from .exception import *  # Automatically imports all public exception
 
-# Returns installed version
-import importlib.metadata
-__version__ = importlib.metadata.version("pyhfs")
+__version__ = "0.0.1"
