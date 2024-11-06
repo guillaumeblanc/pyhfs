@@ -1,0 +1,22 @@
+{
+    "success":true,
+    "data":[
+        {
+            "dataItemMap":{
+                "installed_capacity":30.24,
+                "perpower_ratio":null,
+                "product_power":300
+            },
+            "devId":-214543629611879,
+            "collectTime":1501516800000
+        }
+    ],
+    "failCode":0,
+    "params":{
+        "devIds":"-214543629611879",
+        "devTypeId":1,
+        "collectTime":1501862400000,
+        "currentTime":1503046597854
+    },
+    "message":null
+}

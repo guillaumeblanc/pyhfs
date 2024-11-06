@@ -4,13 +4,17 @@ build-backend = "hatchling.build"
 
 [project]
 name = "pyhfs"
-version = "0.1.2"
+version = "0.2.1"
 authors = [
   { name="Guillaume Blanc", email="guillaumeblanc.sc@gmail.com" },
+  { name="Cédric Airaud", email="cairaud@gmail.com" },
 ]
 description = "Python client for Huawei FusionSolar SmartPVMS Northbound Interface"
 readme = "README.md"
 requires-python = ">=3.7"
+dependencies = [
+    "requests",
+]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
@@ -20,3 +24,6 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/guillaumeblanc/pyhfs"
 "Bug Tracker" = "https://github.com/guillaumeblanc/pyhfs/issues"
+
+[tool.ruff]
+line-length = 120

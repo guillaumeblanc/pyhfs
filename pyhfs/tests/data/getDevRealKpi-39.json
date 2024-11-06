@@ -1,0 +1,29 @@
+{
+  "success":true,
+  "data":[
+      {
+        "devId": 123456,
+        "dataItemMap": {
+          "max_discharge_power": 2500.0,
+          "max_charge_power": 2500.0,
+          "battery_soh": 0.0,
+          "busbar_u": 453.0,
+          "discharge_cap": 2.94,
+          "ch_discharge_power": -89.0,
+          "run_state": 1,
+          "battery_soc": 86.0,
+          "ch_discharge_model": 4.0,
+          "charge_cap": 5.41,
+          "battery_status": 2.0
+        },
+        "sn": "null"
+      }
+    ],
+    "failCode":0,
+    "params":{
+        "devIds":"123456",
+        "devTypeId":"39",
+        "currentTime":1503046597854
+    },
+    "message":null
+}

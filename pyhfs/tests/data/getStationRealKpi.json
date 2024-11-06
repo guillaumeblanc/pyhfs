@@ -10,7 +10,7 @@
                 "month_power": "4345732.000",
                 "total_income": "2088.000"
             },
-            "stationCode": "BA4372D08E014822AB065017416F254C"
+            "stationCode": "NE=12345678"
         },
         {
             "dataItemMap": {
@@ -21,7 +21,7 @@
                 "month_power": "9935100.000",
                 "total_income": "6115.000"
             },
-            "stationCode": "5D02E8B40AD342159AC8D8A2BCD4FAB5"
+            "stationCode": "NE=23456789"
         }
     ],
     "failCode": 0,

@@ -9,7 +9,7 @@
                 "ongrid_power": 18330,
                 "power_profit": 34320
             },
-            "stationCode": "5D02E8B40AD342159AC8D8A2BCD4FAB5",
+            "stationCode": "NE=12345678",
             "collectTime": 1501862400000
         },
         {
@@ -20,7 +20,7 @@
                 "ongrid_power": 15330,
                 "power_profit": 31320
             },
-            "stationCode": "5D02E8B40AD342159AC8D8A2BCD4FAB5",
+            "stationCode": "NE=12345678",
             "collectTime": 1501866000000
         },
         {
@@ -31,7 +31,7 @@
                 "ongrid_power": null,
                 "power_profit": 2088
             },
-            "stationCode": "BA4372D08E014822AB065017416F254C",
+            "stationCode": "NE=12345678",
             "collectTime": 1501873200000
         },
         {
@@ -42,7 +42,7 @@
                 "ongrid_power": 17330,
                 "power_profit": 39320
             },
-            "stationCode": "5D02E8B40AD342159AC8D8A2BCD4FAB5",
+            "stationCode": "NE=12345678",
             "collectTime": 1501876800000
         },
         {
@@ -53,7 +53,7 @@
                 "ongrid_power": 15630,
                 "power_profit": 37370
             },
-            "stationCode": "5D02E8B40AD342159AC8Ds8A2BCD4FAB5",
+            "stationCode": "NE=12345678",
             "collectTime": 1501880400000
         },
         {
@@ -64,7 +64,7 @@
                 "ongrid_power": 16730,
                 "power_profit": 38370
             },
-            "stationCode": "5D02E8B40AD342159AC8D8A2BCD4FAB5",
+            "stationCode": "NE=12345678",
             "collectTime": 1501884000000
         },
         {
@@ -75,7 +75,7 @@
                 "ongrid_power": 19730,
                 "power_profit": 39370
             },
-            "stationCode": "5D02E8B40AD342159AC8D8A2BCD4FAB5",
+            "stationCode": "NE=12345678",
             "collectTime": 1501887600000
         },
         {
@@ -86,13 +86,13 @@
                 "ongrid_power": null,
                 "power_profit": 2128
             },
-            "stationCode": "BA4372D08E014822AB065017416F254C",
+            "stationCode": "NE=12345678",
             "collectTime": 1501887600000
         }
     ],
     "failCode": 0,
     "params": {
-        "stationCodes": "BA4372D08E014822AB065017416F254C,5D02E8B40AD342159AC8D8A2BCD4FAB5",
+        "stationCodes": "NE=12345678",
         "collectTime": 1501862400000,
         "currentTime": 1503046597854
     },

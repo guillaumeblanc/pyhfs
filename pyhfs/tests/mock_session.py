@@ -1,6 +1,4 @@
-import logging
 import os
-import sys
 import json
 import pathlib
 
@@ -24,8 +22,12 @@ class MockSession:
     def login(self) -> None:
         pass
 
-    def post(self, endpoint, parameters={}):
+    def post(self, endpoint, parameters):
         root = pathlib.Path(os.path.dirname(__file__))
-        path = root / ('data/' + endpoint + '.json')
-        with path.open('rt') as json_file:
+        suffix = ""
+        if endpoint in ("getDevRealKpi", "getDevKpiDay", "getDevKpiMonth", "getDevKpiYear"):
+            if "devTypeId" in parameters and parameters["devTypeId"] != 1:
+                suffix = f"-{parameters['devTypeId']}"
+        path = root / f"data/{endpoint}{suffix}.json"
+        with path.open("rt") as json_file:
             return json.load(json_file)

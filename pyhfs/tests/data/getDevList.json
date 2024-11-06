@@ -1,0 +1,35 @@
+{
+    "success":true,
+    "data":[
+        {
+            "id":-214543629611879,
+            "devDn":"NE=45112560",
+            "devName":"5fbfk4",
+            "stationCode":"NE=12345678",
+            "esnCode":"5fbfk4",
+            "devTypeId":1,
+            "softwareVersion":"V100R001PC666",
+            "invType":"SUN2000-17KTL",
+            "longitude":null,
+            "latitude":null
+        },
+        {
+            "id":-214091680973855,
+            "devDn":"NE=4511256",
+            "devName":"6fbfk11",
+            "stationCode":"NE=12345678",
+            "esnCode":"6fbfk11",
+            "devTypeId":1,
+            "softwareVersion":"V100R001PC666",
+            "invType":"SUN2000-17KTL",
+            "longitude":null,
+            "latitude":null
+        }
+    ],
+    "failCode":0,
+    "params":{
+        "stationCodes":"NE=12345678,NE=23456789",
+        "currentTime":1503046597854
+    },
+    "message":null
+}

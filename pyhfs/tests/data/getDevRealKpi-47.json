@@ -1,0 +1,60 @@
+{
+  "success":true,
+  "data":[
+      {
+        "devId": 123456,
+        "dataItemMap": {
+          "meter_status": 1.0,
+          "active_cap": 650.65,
+          "meter_i": 1.04,
+          "power_factor": 0.0,
+          "c_i": "N/A",
+          "meter_u": 238.5,
+          "b_i": "N/A",
+          "reverse_reactive_valley": null,
+          "positive_reactive_peak": null,
+          "reverse_reactive_peak": null,
+          "reverse_active_peak": null,
+          "positive_active_peak": null,
+          "reactive_power": 296.0,
+          "c_u": "N/A",
+          "total_apparent_power": null,
+          "bc_u": "N/A",
+          "b_u": "N/A",
+          "reverse_active_cap": 296.8,
+          "reverse_reactive_power": null,
+          "positive_reactive_top": null,
+          "active_power_b": "N/A",
+          "active_power_a": "N/A",
+          "positive_active_top": null,
+          "reverse_reactive_cap": null,
+          "positive_active_power": null,
+          "positive_active_valley": null,
+          "run_state": 1,
+          "reverse_reactive_top": null,
+          "reverse_active_power": null,
+          "reverse_active_top": null,
+          "reactive_power_a": null,
+          "forward_reactive_cap": null,
+          "reactive_power_b": null,
+          "reactive_power_c": null,
+          "reverse_active_valley": null,
+          "active_power": 0.0,
+          "ab_u": "N/A",
+          "ca_u": "N/A",
+          "positive_reactive_power": null,
+          "active_power_c": "N/A",
+          "grid_frequency": 49.99,
+          "positive_reactive_valley": null
+        },
+        "sn": "null"
+      }
+    ],
+    "failCode":0,
+    "params":{
+        "devIds":"123456",
+        "devTypeId":"47",
+        "currentTime":1503046597854
+    },
+    "message":null
+}

@@ -1,0 +1,57 @@
+{
+    "success":true,
+    "data":[
+        {
+            "devId": 123456,
+            "collectTime": 1719788400000,
+            "dataItemMap": {
+              "charge_cap": 6.21,
+              "discharge_cap": 6.07,
+              "charge_time": 10.166666666666666,
+              "discharge_time": 5.5
+            },
+            "sn": "null"
+          },
+          {
+            "devId": 123456,
+            "collectTime": 1719874800000,
+            "dataItemMap": {
+              "charge_cap": 5.55,
+              "discharge_cap": 4.23,
+              "charge_time": 5.75,
+              "discharge_time": 5.916666666666667
+            },
+            "sn": "null"
+          },
+          {
+            "devId": 123456,
+            "collectTime": 1719961200000,
+            "dataItemMap": {
+              "charge_cap": 7.11,
+              "discharge_cap": 8.61,
+              "charge_time": 7.25,
+              "discharge_time": 6.0
+            },
+            "sn": "null"
+          },
+          {
+            "devId": 123456,
+            "collectTime": 1720047600000,
+            "dataItemMap": {
+              "charge_cap": 5.31,
+              "discharge_cap": 2.77,
+              "charge_time": 4.666666666666667,
+              "discharge_time": 6.083333333333333
+            },
+            "sn": "null"
+          }
+    ],
+    "failCode":0,
+    "params":{
+        "devIds":"123456",
+        "devTypeId":39,
+        "collectTime":1501862400000,
+        "currentTime":1503046597854
+    },
+    "message":null
+}

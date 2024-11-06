@@ -1,0 +1,60 @@
+{
+    "success":true,
+    "data":[
+        {
+          "devId": 123456,
+          "dataItemMap": {
+            "pv1_u": 453.5,
+            "pv2_u": 0.0,
+            "pv3_u": 0.0,
+            "pv4_u": 0.0,
+            "pv5_u": 0.0,
+            "power_factor": 1.0,
+            "pv6_u": 0.0,
+            "pv7_u": 0.0,
+            "pv8_u": 0.0,
+            "inverter_state": 512.0,
+            "open_time": 1721537680000,
+            "a_i": 2.244,
+            "total_cap": 1482.36,
+            "c_i": 0.0,
+            "b_i": 0.0,
+            "mppt_3_cap": 0.0,
+            "a_u": 118.4,
+            "reactive_power": 0.0,
+            "c_u": 0.0,
+            "temperature": 41.9,
+            "bc_u": 0.0,
+            "b_u": 0.0,
+            "elec_freq": 49.99,
+            "mppt_4_cap": 0.0,
+            "efficiency": 100.0,
+            "day_cap": 10.13,
+            "mppt_power": 0.435,
+            "run_state": 1,
+            "close_time": "N/A",
+            "mppt_1_cap": 1569.24,
+            "pv1_i": 1.02,
+            "pv2_i": 0.0,
+            "pv3_i": 0.0,
+            "active_power": 0.518,
+            "pv4_i": 0.0,
+            "mppt_2_cap": 0.0,
+            "pv5_i": 0.0,
+            "ab_u": 238.6,
+            "ca_u": 0.0,
+            "pv6_i": 0.0,
+            "pv7_i": 0.0,
+            "pv8_i": 0.0
+          },
+          "sn": "HVaaaaaa"
+        }
+    ],
+    "failCode":0,
+    "params":{
+        "devIds":"123456",
+        "devTypeId":"38",
+        "currentTime":1503046597854
+    },
+    "message":null
+}
